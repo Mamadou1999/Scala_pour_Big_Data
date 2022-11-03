@@ -1,0 +1,5 @@
+Nous sommes en phase de test 
+Ceci est un fichier texte
+Nous allons l'utiliser avec la fonction map
+
+
